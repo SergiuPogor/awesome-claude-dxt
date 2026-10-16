@@ -209,6 +209,7 @@ If you have any disconnect issue check the `manifest.json` at these useful repos
 
 - [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server & AI agent skill. REST API and 20 extraction tools for profiles, tweets, followers, and more.
 - [Rakesh1002/namemyapp-mcp](https://github.com/Rakesh1002/namemyapp-mcp) - Generate brandable business names with live domain availability and one-click buy URLs. 12 tools: AI naming, domain check, registration, DNS, logos, legal docs, brand & social kits. Remote MCP at `https://mcp.namemy.app/mcp` (OAuth) and `/direct` (bearer); npm: `@namemyapp/mcp`.
+- [SergiuPogor/curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp) - Screenshot any web page from your agent as PNG, JPEG, WebP, PDF or a scrolling video, with device presets, full-page and element capture. Hosted remote MCP at `https://curlshot.com/api/mcp` (bearer key; free plan 100 screenshots/month); Claude Desktop via `npx mcp-remote`.
 
 ### Messaging
 
