@@ -7,6 +7,11 @@
 [![Last Commit](https://img.shields.io/github/last-commit/milisp/awesome-claude-dxt)](https://github.com/milisp/awesome-claude-dxt/commits)
 [![License](https://img.shields.io/github/license/milisp/awesome-claude-dxt)](LICENSE)
 
+<p align="center">
+  🚀 <strong>New:</strong> <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-claude-dxt">MCP Linker</a> — sync MCP servers between Claude Code, Codex, Cursor &amp; more — is live on Product Hunt!<br>
+  <a href="https://www.producthunt.com/products/mcp-linker?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=awesome-claude-dxt" target="_blank" rel="noopener noreferrer"><img alt="MCP Linker on Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1281069&amp;theme=light"></a>
+</p>
+
 A curated list of awesome (not only Claude) Desktop Extensions, tools, and resources
 
 ## What is DXT
